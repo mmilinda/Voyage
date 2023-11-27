@@ -1,0 +1,83 @@
+#globale{
+	background: white;
+}
+.menu{
+	background:white;
+	margin: 5px;
+	padding: 10px;
+	height: 30px;
+}
+.navigation{
+	text-align: left;
+}
+li{
+	display: inline-block;
+	text-decoration: none;
+}
+.entete{
+	background: black;
+	margin: 5px;
+	padding: 5px;
+	height: 50px;
+	text-align: right;
+}
+.corps{
+	margin: 5px;
+	padding: 5px;
+	height: 100px;
+}
+
+.d2{
+    width: 100%;
+    height: 150px;
+    padding-top: 30%;
+    box-shadow: 0px 0px 10px #777;
+    background-color: #EDEDED;
+    background-size: cover;
+    animation: fondu 15s ease-in-out infinite both;
+}
+.d2:hover{
+    animation-play-state: paused;
+
+}
+@keyframes fondu{
+    0%{background-image: url("https://c1.lestechnophiles.com/www.numerama.com/wp-content/uploads/2019/03/airbus-e-fan-x.jpg?resize=1212,712");}
+    33.33%{background-image: url("https://www.onisep.fr/var/onisep/storage/images/media/images/metier_fiches-ideo/hotesse/17904613-1-fre-FR/hotesse.jpg");}
+    66.67%{background-image: url("https://www.opodo.fr/content/img/OF/offers/MediaServices/HeroBanners/Opodo/AIR/AirFrance/1920x880_hb_new_v1.jpg");}
+    100%{background-image: url("https://www.opodo.fr/content/img/OF/offers/02-herobanners/1920x880-hb-APP.jpg");}
+
+}
+.ck{
+	position: absolute;
+	margin: auto;
+	padding: 10px;
+	padding-right: 7px;
+	top: 430px;
+	right: 0;
+	bottom: 100px;
+	left: 0;
+	background: white;
+	min-height: 100px;
+	width: 60%;
+}
+.cov{
+	position: absolute;
+	margin: auto;
+	padding: 10px;
+	top: 300px;
+	right: 0;
+	bottom: 300px;
+	left: 0;
+	background: white;
+	min-height: 80px;
+	width: 65%;
+}
+.foot{
+	color: white;
+	background: black;
+	height: 300px;
+	width: 100%
+	margin: 5px;
+	padding: 10px;
+}
+

@@ -1,0 +1,59 @@
+#tout{
+
+}
+.rg1{
+	height: 200px;
+	width: 100%;
+}
+.gch{
+	float: left;
+	min-height: 200px;
+	width: 50%;
+}
+.drt{
+	float: right;
+	min-height: 200px;
+	width: 50%;
+}
+.rg2{
+	height: 200px;
+	width: 100%;
+}
+.lft{
+	float: left;
+	min-height: 200px;
+	width: 50%;
+}
+.rgt{
+	float: right;
+	min-height: 200px;
+	width: 50%;
+}
+.rg3{
+	height: 200px;
+	width: 100%;
+}
+.lf{
+	float: left;
+	min-height: 200px;
+	width: 50%;
+}
+.rt{
+	float: right;
+	min-height: 200px;
+	width: 50%;
+}
+.rg4{
+	height: 200px;
+	width: 100%;
+}
+.G{
+	float: left;
+	min-height: 200px;
+	width: 50%;
+}
+.D{
+	float: right;
+	min-height: 200px;
+	width: 50%;
+}

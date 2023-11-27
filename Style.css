@@ -1,0 +1,33 @@
+body{
+	margin:0px;
+	padding:0px;
+	width:100%
+}
+
+img{ margin:0px;
+	padding:0px;
+	width:60%
+ }
+ h1{
+ 	background-color:lightblue
+ }
+ p{
+ 	background-color:black;
+ 	color: lightblue
+ }
+}
+#centre{
+	border-collapse: 1px solid black;
+	background: white;
+
+}
+
+.tall{
+	border:1px solid black;
+	background:lightblue;
+	margin: 5px;
+	padding: 5px;
+	height:90px
+	border-left :black;
+}
+	
